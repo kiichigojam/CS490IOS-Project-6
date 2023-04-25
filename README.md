@@ -1,10 +1,10 @@
-# Project 6 - *Name of App Here*
+# Project 6 - BeReal Clone Pt.2
 
-Submitted by: **Your Name Here**
+Submitted by: James Kor
 
-**Name of your app** is an app that introduces ... [TODO] 
+This is a BeReal Clone app.
 
-Time spent: **X** hours spent in total
+Time spent: 6 hours spent in total
 
 ## Required Features
 
